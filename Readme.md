@@ -1,24 +1,23 @@
 # André
-## About Me
 
-Quality Assurance Engineer with experience in
+## 👋 About Me
 
-✔ Manual Testing
+Quality Assurance Engineer passionate about software quality and test automation.
 
-✔ API Testing
+-  Manual Testing
+-  API Testing (Postman)
+-  SQL & Database Validation
+-  Test Automation with Python
+-  Agile (Scrum)
+- Currently learning Playwright
 
-✔ SQL
+- ## 📊 GitHub Stats
 
-✔ Agile
-
-✔ Automation with Python
-
-Currently studying Playwright.
-## 🚀 My Skills
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,java,git,mysql,azure,postman" />
-    <img src="https://playwright.dev/img/playwright-logo.svg" width="48"/>
-  </a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Andre-ognibene&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-ognibene&layout=compact&theme=tokyonight"/>
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Andre-ognibene&theme=tokyonight"/>
+</p>
