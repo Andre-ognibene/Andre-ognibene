@@ -17,7 +17,7 @@ Currently studying Playwright.
 ## 🚀 My Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,sql,java,git,mysql,azure,Playwright,postman" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,Sql,java,git,mysql,azure,Playwright,postman" />
   </a>
 </p>
 
