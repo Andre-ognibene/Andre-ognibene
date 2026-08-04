@@ -18,7 +18,7 @@ Currently studying Playwright.
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,java,git,mysql,azure,postman" />
-    <img src="https://playwright.dev/img/playwright-logo.svg" width="48"/>
+    <img src="https://cdn.simpleicons.org/playwright" width="48"/>
   </a>
 </p>
 
