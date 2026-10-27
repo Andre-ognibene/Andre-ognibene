@@ -24,6 +24,6 @@ Quality Assurance Engineer passionate about software quality and test automation
 -  Password Manager
 -  Finantec Web financial management system
 -  RAG PDF Assistant - Intelligent Document Library
--  Web Automation with Playwright *(Coming Soon)*
--  API Testing Portfolio *(Coming Soon)*
+-  Web Automation with Playwright
+-  API Testing Portfolio
 -  SQL Queries for QA *(Coming Soon)*
